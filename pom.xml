@@ -69,17 +69,13 @@
 			<groupId>org.testng</groupId>
 			<artifactId>testng</artifactId>
 			<version>7.7.1</version>
-			<scope>test</scope>
+			
 		</dependency>
 		<dependency>
       <groupId>com.google.guava</groupId>
       <artifactId>guava</artifactId>
       <version>31.0.1-jre</version>
     </dependency>
-		<dependency>
-			<groupId>com.Tyss</groupId>
-			<artifactId>com.String</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+	
  </dependencies>
 </project>
